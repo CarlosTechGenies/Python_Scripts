@@ -25,4 +25,4 @@ To run the program, follow these steps:
 4. Run the program using the following command:
 
    ```bash
-   python Season-1.py
+   python season1.py
